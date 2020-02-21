@@ -1,0 +1,18 @@
+body{
+    font-family:"Tomorrow" ;
+}
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: coral;
+}
+.left-intro{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.left-intro img{
+    width: 100%;
+}
